@@ -1,0 +1,25 @@
+yarn install v1.22.22
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.37s.
+Prisma schema loaded from prisma/schema.prisma
+
+✔ Generated Prisma Client (v6.7.0) to ./../node_modules/.prisma/client in 487ms
+
+Start by importing your Prisma Client (See: https://pris.ly/d/importing-client)
+
+Tip: Want to react to database changes in your app as they happen? Discover how with Pulse: https://pris.ly/tip-1-pulse
+
+yarn run v1.22.22
+$ ../node_modules/.bin/next dev -p 3001
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3001
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 4.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 7s (1183 modules)
+ GET / 200 in 7567ms
+ ✓ Compiled in 544ms (585 modules)

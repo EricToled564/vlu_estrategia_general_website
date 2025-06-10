@@ -10,36 +10,6 @@
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
-    ],
-    "/pilares-estrategicos/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/pilares-estrategicos/page.js"
-    ],
-    "/analisis-mercado/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/analisis-mercado/page.js"
-    ],
-    "/analisis-swot/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/analisis-swot/page.js"
-    ],
-    "/reputacion/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/reputacion/page.js"
-    ],
-    "/segmentacion/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/segmentacion/page.js"
-    ],
-    "/posicionamiento/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/posicionamiento/page.js"
     ]
   }
 }
