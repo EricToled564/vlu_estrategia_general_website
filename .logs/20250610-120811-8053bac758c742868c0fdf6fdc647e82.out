@@ -1,0 +1,44 @@
+yarn install v1.22.22
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+Done in 333.62s.
+Prisma schema loaded from prisma/schema.prisma
+
+✔ Generated Prisma Client (v6.7.0) to ./../node_modules/.prisma/client in 456ms
+
+Start by importing your Prisma Client (See: https://pris.ly/d/importing-client)
+
+Tip: Curious about the SQL queries Prisma ORM generates? Optimize helps you enhance your visibility: https://pris.ly/tip-2-optimize
+
+yarn run v1.22.22
+$ ../node_modules/.bin/next dev -p 3001
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3001
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 2.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.8s (1183 modules)
+ GET / 200 in 5269ms
+ ✓ Compiled in 499ms (585 modules)
+ GET / 200 in 47ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 30ms
+ GET / 200 in 30ms
+ ✓ Compiled /pilares-estrategicos in 496ms (1182 modules)
+ GET / 200 in 99ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ ○ Compiling /analisis-mercado ...
+ ✓ Compiled /analisis-mercado in 572ms (1194 modules)
+ ✓ Compiled /analisis-swot in 315ms (1206 modules)
+ ✓ Compiled /reputacion in 313ms (1218 modules)
+ ✓ Compiled /segmentacion in 322ms (1232 modules)
+ ○ Compiling /posicionamiento ...
+ ✓ Compiled /posicionamiento in 763ms (1244 modules)
+ GET / 200 in 97ms

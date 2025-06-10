@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/analisis-mercado/page": "app/analisis-mercado/page.js",
+  "/analisis-swot/page": "app/analisis-swot/page.js",
+  "/page": "app/page.js",
+  "/pilares-estrategicos/page": "app/pilares-estrategicos/page.js",
+  "/reputacion/page": "app/reputacion/page.js",
+  "/posicionamiento/page": "app/posicionamiento/page.js",
+  "/segmentacion/page": "app/segmentacion/page.js"
+}

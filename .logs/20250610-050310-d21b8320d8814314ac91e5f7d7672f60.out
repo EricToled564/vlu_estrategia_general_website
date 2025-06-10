@@ -1,0 +1,24 @@
+yarn run v1.22.22
+$ next dev
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 1740ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.6s (1183 modules)
+ GET / 200 in 4133ms
+ GET / 200 in 4125ms
+ ✓ Compiled in 527ms (585 modules)
+ GET / 200 in 145ms
+ GET / 200 in 51ms
+ GET / 200 in 41ms
+ GET / 200 in 35ms
+ GET / 200 in 43ms
+ GET / 200 in 27ms
+ ✓ Compiled /_not-found in 374ms (1167 modules)
+ GET / 404 in 487ms
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+[?25h
