@@ -1,4 +1,4 @@
-// File: /home/ubuntu/vlu_estrategia_general_website/app/app/reputacion/page.tsx
+// File: /home/ubuntu/workspace/vlu_estrategia_general_website/app/app/reputacion/page.tsx
 import * as entry from '../../../../app/reputacion/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
