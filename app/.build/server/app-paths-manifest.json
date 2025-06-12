@@ -4,7 +4,7 @@
   "/analisis-swot/page": "app/analisis-swot/page.js",
   "/page": "app/page.js",
   "/pilares-estrategicos/page": "app/pilares-estrategicos/page.js",
-  "/reputacion/page": "app/reputacion/page.js",
+  "/posicionamiento/page": "app/posicionamiento/page.js",
   "/segmentacion/page": "app/segmentacion/page.js",
-  "/posicionamiento/page": "app/posicionamiento/page.js"
+  "/reputacion/page": "app/reputacion/page.js"
 }

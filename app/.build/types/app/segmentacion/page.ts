@@ -1,4 +1,4 @@
-// File: /home/ubuntu/workspace/vlu_estrategia_general_website/app/app/segmentacion/page.tsx
+// File: /home/ubuntu/vlu_estrategia_general_website/app/app/segmentacion/page.tsx
 import * as entry from '../../../../app/segmentacion/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
